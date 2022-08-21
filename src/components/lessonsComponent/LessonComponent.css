@@ -1,0 +1,27 @@
+#lesson-container{
+    background: white;
+    width: 23%;
+    border-left: 1px solid lightslategray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+.country-lessons div:nth-child(1){
+    font-weight: bold;
+    font-size: 20px;
+}
+.country-lessons span{
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+.camp-lessons div:nth-child(1){
+    font-weight: bold;
+    font-size: 18px;
+}
+.camp-lessons span{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 5px;
+}
