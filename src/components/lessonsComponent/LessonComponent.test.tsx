@@ -1,8 +1,3 @@
-// country={countryObj}
-// camp={campObj}
-// school={schoolArr}
-// onCheckButton={handleCheckButton}
-
 import { fireEvent, render, screen } from '@testing-library/react';
 import { LessonsComponent } from './LessonsComponent';
 import Enzyme from 'enzyme';
