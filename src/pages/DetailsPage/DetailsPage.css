@@ -1,0 +1,13 @@
+#details-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+  font-size: 18px;
+}
+#details-container span {
+  font-weight: bold;
+  padding: 13px;
+  display: inline-block;
+}
